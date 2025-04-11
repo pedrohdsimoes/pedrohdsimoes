@@ -9,13 +9,14 @@ I’m a **Full Stack Engineer** specialized in **React**, **Typescript** and **N
 - **[CiViseu](https://www.civiseu.pt)**: Developing a Mobile App for scheduling and notifing users of their cars inspections.
 
 ### 🌟 Skills & Expertise
-- **Programming**: React, React Native (with Expo), NextJs, NodeJS, Typescript, Python, JavaScript, SQL, GraphQL, Redis, IndexedDb, PostgresSQL
+- **Programming**: React, React Native (with Expo), NextJs, NodeJS, Typescript, Python, JavaScript, SQL, GraphQL, Redis, IndexedDb, PostgreSQL
 - **Content Management Systems (CMS)**: Contentful
 - **Error Tracking**: Sentry
 - **Infrastructure**: Git, Netlify, Docker, IPFS, CI/CD, Hasura
 - **Web3 Development**: wagmi/viem, WalletConnect
 - **ORM**: Prisma
-- **Mobile Development**: Expo (IOS and Android)
+- **Mobile Development**: Expo (IOS and Android), Flutter
+- **Material Design**: MaterialUI, Mantine, Gluestack, Tailwind CSS
 
 ### 🛠️ Key Contributions
 
