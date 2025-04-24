@@ -2,6 +2,9 @@
 
 I’m a **Full Stack Engineer** specialized in **React**, **Typescript** and **Node.js**. I work alogside **Neal Stephenson** at **Lamina1**, building a Web3 hub for creators. Based in the **Brussels, Belgium**, I also work for **[BitFashioned SEZC](https://bitfashioned.com)** remotely to help projects navigate Web3, from launching platforms and tokens to advising on strategic growth.
 
+### 📝 Portfolio
+- **[Personal Website](https://pedrohdsimoes.com)**: Check my portfolio to see my current and past projects in detail.
+
 ### 🔧 Current Projects
 - **[Lamina1](https://about.lamina1.com)**: Leading tech initiatives to build a creator-centric Web3 hub founded by Neal Stephenson.
 - **[PhoenixxIO](https://phoenixx.io)**: Builded a secure communication hub for Web3.
